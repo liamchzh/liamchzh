@@ -1,0 +1,21 @@
+title: "Liam's Blog"
+url: "http://liamchzh.github.io"
+author: "Liam"
+email: "liamchzh@gmail.com"
+description: "Liam's Blog"
+
+auto: false
+source: .
+paginate: 10
+paginate_files:
+ - index.html
+
+
+markdown: rdiscount
+pygments: true
+
+exclude:
+  - README.markdown
+  - _drafts
+
+img_url: http://liamchzh.github.com/images
