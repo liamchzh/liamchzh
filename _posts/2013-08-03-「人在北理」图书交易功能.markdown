@@ -19,5 +19,3 @@ description: "人在北理上线新的功能——图书交易。这是一个开
 
 在慢慢实现自己想法的过程中，我发现很多细节的东西都会在做的过程中有所变化。都说程序员需要花一般的时间来思考，剩下的才是写代码和测试，但这不是要求你把所有的东西想好了再来做，而是构思好一小部分后马上动手实现，因为你的接下来的想法，可能会在实现的过程中就不知不觉涌现出来，你要做的，就是记下你的灵感。永远不要停留在夸夸其谈的层面上，just do it,这跟「Talk is cheap,show me the code.」是一个道理。
 
-
-[![atbit](http://liamchzh.com/wp-content/uploads/2013/08/atbit.jpg)](http://liamchzh.com/wp-content/uploads/2013/08/atbit.jpg)

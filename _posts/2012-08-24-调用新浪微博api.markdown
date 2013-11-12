@@ -11,9 +11,6 @@ description: "通过新浪微博的开放平台，可以开发应用或者其他
 
 从2012年9月1日起，新浪就会要求全部使用[OAuth2.0](http://open.weibo.com/wiki/Oauth2)进行验证。刚开始接触，很多人可能会卡在这里，但是只要了解清楚整个认证过程，问题自然就解决了。
 
-[![](http://liamchzh.0fees.net/wp-content/uploads/2012/08/oAuth2_01.gif)](http://liamchzh.0fees.net/wp-content/uploads/2012/08/oAuth2_01.gif)
-
-(注：图片来自新浪官方文档说明。Client指第三方应用，Resource Owner指用户，Authorization Server是我们的授权服务器，Resource Server是API服务器)
 
 <!-- more -->
 

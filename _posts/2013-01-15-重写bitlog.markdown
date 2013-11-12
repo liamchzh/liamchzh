@@ -14,22 +14,6 @@ description: "前两天花了点时间重新写了一下BitLog"
 
 这个版本是用pygtk写的界面。也是一边学习一边开发，但是这次这个结构清晰多了，界面也更加简洁。
 
-下面是界面截图：
-
-主界面
-
-[![主界面](http://liamchzh.com/wp-content/uploads/2013/01/主界面.png)](http://liamchzh.com/wp-content/uploads/2013/01/主界面.png)
-
-
-
-设置账号和密码
-
-[![设置界面](http://liamchzh.com/wp-content/uploads/2013/01/设置界面.png)](http://liamchzh.com/wp-content/uploads/2013/01/设置界面.png)
-
-关于界面
-
-[![关于界面](http://liamchzh.com/wp-content/uploads/2013/01/关于界面.png)](http://liamchzh.com/wp-content/uploads/2013/01/关于界面.png)
-
 本来还想打包成Windows下的可执行程序，不过今天花了大半天使用py2exe打包一直不成功。那就留着自己在ubuntu下用吧。
 
 代码已经托管到[github](https://github.com/liamchzh/python/blob/master/bitlog-v2.py).
