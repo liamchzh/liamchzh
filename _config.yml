@@ -18,4 +18,4 @@ exclude:
   - README.markdown
   - _drafts
 
-img_url: http://liamchzh.github.com/images
+img_url: "http://liamchzh.github.com/images"
