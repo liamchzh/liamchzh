@@ -44,6 +44,8 @@ nginx的配置文件里，需要告诉nginx跟uWSGI通信的socket端口。
 
 具体配置可以参考以下：  
 
+
+    {% highlight config %}
     server {
     	listen   80;
     	server_name xxx.com;
@@ -61,6 +63,7 @@ nginx的配置文件里，需要告诉nginx跟uWSGI通信的socket端口。
     		uwsgi_pass 127.0.0.1:3031;
     	}
     }
+    {% endhighlight %}
 
 我也找了很多nginx的配置文件，不断修改才运行成功。
 
