@@ -1,5 +1,5 @@
 ---
-layouts: post
+layouts: page
 title: My Projects
 ---
 
