@@ -1,6 +1,6 @@
 ---
-layouts: page
-title: My Projects
+layout: page
+title: My Porjects 
 ---
 
 ### 1. BitLog
