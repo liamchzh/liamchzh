@@ -19,3 +19,5 @@ categories: [Life]
 对了，上周完成了人生第一个全马。真正开始跑步开始与两年前，在那之前从来不敢想象跑这么长的距离，而当我做到了的时候，觉得也不过如此。就如同千辛万苦爬上一座山头，回首走过的路，俯视山谷的风景一样，真的也就那样，然后转身，因为还有更高的地方在等着你。
 
 附：[在 PM2.5 值超过 400 的情况下参加北京马拉松是什么体验？](http://www.zhihu.com/question/26093366/answer/32128296)
+
+![beijing-marathon](https://raw.githubusercontent.com/liamchzh/liamchzh.github.com/master/images/IMG_3962.JPG)
