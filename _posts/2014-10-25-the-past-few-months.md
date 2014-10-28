@@ -20,4 +20,4 @@ categories: [Life]
 
 附：[在 PM2.5 值超过 400 的情况下参加北京马拉松是什么体验？](http://www.zhihu.com/question/26093366/answer/32128296)
 
-![beijing-marathon](https://raw.githubusercontent.com/liamchzh/liamchzh.github.com/master/images/IMG_3962.JPG)
+![beijing-marathon](/images/IMG_3962.JPG)
