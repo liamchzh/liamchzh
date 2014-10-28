@@ -265,6 +265,7 @@ img {
     margin-right: auto;
     padding: 8px;
     vertical-align: middle;
+    width: 600px;
 }
 label {
     font-weight: bold;
